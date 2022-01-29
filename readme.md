@@ -1,0 +1,1 @@
+https://AlexShumsky.github.io/webpack-test/index.html
